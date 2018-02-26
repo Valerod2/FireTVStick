@@ -5,9 +5,7 @@ https://troypoint.com/install-terrarium-tv-on-fire-tv-or-fire-tv-stick/
 
 http://www.streaming1tv.com/2017/08/how-to-install-opera-free-vpn-unlimited.html
 
-https://mobdroappdownload.co/mobdro-apk-premium/
-
-https://livenettvapps.com/apktime-apk-download/
+https://www.thestreammachine.net/uploads/8/0/4/5/8045572/apktime-v1.6-b.apk
 
 https://block-this.com/block-this-latest.apk
 
