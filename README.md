@@ -1,5 +1,6 @@
 # FireTVStick
 Fire TV Stick Updates
+
 https://troypoint.com/install-terrarium-tv-on-fire-tv-or-fire-tv-stick/
 
 http://www.streaming1tv.com/2017/08/how-to-install-opera-free-vpn-unlimited.html
@@ -23,11 +24,15 @@ Smart YouTube Player
 Mouse Toggle
 
 Other APPs
+
 TeaTV (not as dependable)
 Mobdro (Live TV)
 
 Via Amazon Store:
+
 Silk Browser (decent browser)
 Downloader (good for downloading your APK's)
+
 Opera FreeVPN (use with Mouse toggle):
+
 https://www.apkmonk.com/download-app/com.opera.vpn/5_com.opera.vpn_2018-01-10.apk/
