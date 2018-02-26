@@ -36,3 +36,5 @@ Downloader (good for downloading your APK's)
 Opera FreeVPN (use with Mouse toggle):
 
 https://www.apkmonk.com/download-app/com.opera.vpn/5_com.opera.vpn_2018-01-10.apk/
+
+http://apk.apkmonk.com/apks-10/com.opera.vpn_2018-01-10.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=IFVYHACUO60QSGWW9L9Z%2F20180226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20180226T165202Z&X-Amz-Expires=2400&X-Amz-SignedHeaders=host&X-Amz-Signature=e9bacbfe73e2321067725641e0143b7229107416da75f8ba5b4ce115da3990f6
