@@ -35,6 +35,4 @@ Downloader (good for downloading your APK's)
 
 Opera FreeVPN (use with Mouse toggle):
 
-https://opera-vpn.en.uptodown.com/android/download
-
 https://dw.uptodown.com/dwn/ly88jbiyMMEEh_WlOOio4VlADiBf8KulQ1BQ35vAug3-xLM2okF43TFH4PXlOHH3alM1JTYAcnN2AD1bcWhAjKVH6H012uYvawZiHsuMQGTFtAGqR9foNQz28ioRAvKM/-vibKzSMj8PDNEbeJ-YgFhvrW1J4FpL4NDXDcHOXtLvuCZKb7C53l7QTrmyyTcjbunxSiWZ_sPmf8DOEs-xEqSj4a9Kk-b0fhRedbRV5BQFiXrd18EU8qhhl8B0kp3oG/tBSwwhjU2slSdgxPGFoDhI3IUedy5ZABVIolNBPOpxLUYtVAfdiLTqVGsf6MRbvkf0iz7lzemhBGQS_hv7EXj47braw49P8DfDnbD9ZDpZ3JYxB218Lr3csDrCjXkLeb/SxDYGarVGf9vL1Cw-YXrBlbXLn2Goc_oULo-hH5gwgs=/
