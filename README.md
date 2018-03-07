@@ -1,3 +1,4 @@
+
 # FireTVStick
 Fire TV Stick Updates
 
@@ -29,6 +30,7 @@ TeaTV (not as dependable)
 Mobdro (Live TV)
 
 Via Amazon Store:
+https://hazeltvonline.blogspot.ro
 
 Silk Browser (decent browser)
 Downloader (good for downloading your APK's)
