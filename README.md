@@ -16,7 +16,13 @@ http://dl.dlandroid.com/apps/teatv-mod[dlandroid.com].apk
 
 https://www.mobdro.to/mobdro.apk
 
-https://www.dropbox.com/s/3w8w8en56m6gxni/exodus_live.apk?dl=0
+https://onhax.me/
+
+https://www.revdl.com/category/apps
+
+http://www.crackapk.com/crack-apps
+
+https://apk4free.net/category/android-apps
 
 Best Apps for Firestick can be found on APKTime:
 
