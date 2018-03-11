@@ -24,6 +24,10 @@ http://www.crackapk.com/crack-apps
 
 https://apk4free.net/category/android-apps
 
+https://aptoide.en.uptodown.com/android/download
+
+https://en.uptodown.com/android/video
+
 Best Apps for Firestick can be found on APKTime:
 
 TerrariumTV
