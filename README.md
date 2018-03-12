@@ -19,23 +19,23 @@ https://block-this.com/block-this-latest.apk
 5.	MOUSE TOGGLE
 https://tinyurl.com/yag9kkgc
 6.	OPERA FREE VPN
-7.	https://dw.uptodown.com/dwn/ly88jbiyMMEEh_WlOOio4VlADiBf8KulQ1BQ35vAug3-xLM2okF43TFH4PXlOHH3VNwyFFHb1XJyTLCRho0kMRl_xFqknny-1uAuojNmf4bSMDcXtRmNxVRB-4nZl4QE/x1FuKiKCgv2eeZJGf35UDDSlfQ-60lo8S9GMcJbAKSlbJKHBBD96a0kjNlWqesNlXGKObM8IJLWTw8K4iJ32y9anH_Oy3jFcK2I1KFc-X7gzBUIUYRo_fbCDGnktSNb-/1pQ0Q_DRtC21rLaJ6_0Tx9ZjLr4h2JLdTxhshPudi_EhIBsqn08GSAel6BORv5_X71Pq0QCx-rqqmXpRJY5DTXltLh4onAbS5q-Wj_VdYrEiBHr-fEolJkCCnpMy4v1X/YterIZ-km6eXNiEXHRvHUVDM_-qkAZepbKiHP1y0Vtc=/
-8.	TEATV
+https://dw.uptodown.com/dwn/ly88jbiyMMEEh_WlOOio4VlADiBf8KulQ1BQ35vAug3-xLM2okF43TFH4PXlOHH3VNwyFFHb1XJyTLCRho0kMRl_xFqknny-1uAuojNmf4bSMDcXtRmNxVRB-4nZl4QE/x1FuKiKCgv2eeZJGf35UDDSlfQ-60lo8S9GMcJbAKSlbJKHBBD96a0kjNlWqesNlXGKObM8IJLWTw8K4iJ32y9anH_Oy3jFcK2I1KFc-X7gzBUIUYRo_fbCDGnktSNb-/1pQ0Q_DRtC21rLaJ6_0Tx9ZjLr4h2JLdTxhshPudi_EhIBsqn08GSAel6BORv5_X71Pq0QCx-rqqmXpRJY5DTXltLh4onAbS5q-Wj_VdYrEiBHr-fEolJkCCnpMy4v1X/YterIZ-km6eXNiEXHRvHUVDM_-qkAZepbKiHP1y0Vtc=/
+7.	TEATV
 http://dl.dlandroid.com/apps/teatv-mod[dlandroid.com].apk
-9.	MOBDRO
+8.	MOBDRO
 https://www.mobdro.to/mobdro.apk
-10.	TERRARIUM TV
+9.	TERRARIUM TV
 https://tinyurl.com/ybbrhj9p
-11.	ONEBOX
+10.	ONEBOX
 https://tinyurl.com/yb39y546
-12.	PANDORA
+11.	PANDORA
 https://drive.google.com/uc?export=download&id=0Bz61PneamORFN0xtWWVjNTM0RjA
-13.	MX PLAYER PRO
+12.	MX PLAYER PRO
 https://tinyurl.com/ycd6b3xa
-After installation is complete FIRSTopen and configure STOPAD, BLOCK THIS, MOUSE TOGGLE AND OPERA VPN.  SET THEM UP TO AUTOMATICALLY RESTART AND TURN ON SETTINGS.  (read about how to use Mouse Toggle)  its helps to use it sometimes. 
+After installation is complete FIRST open and configure STOPAD, BLOCK THIS, MOUSE TOGGLE AND OPERA VPN.  SET THEM UP TO AUTOMATICALLY RESTART AND TURN ON SETTINGS.  (read about how to use Mouse Toggle)  its helps to use it sometimes. 
 After this is done. You may open the rest.
 
-
+ADDITIONAL INFO
 
 https://troypoint.com/how-to-setup-firestick-or-fire-tv/
 
