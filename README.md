@@ -1,6 +1,41 @@
 
 # FireTVStick
 Fire TV Stick Updates
+INSTALLTION in this order
+1.	Install DOWNLOADER
+Step 1: Download Downloader. ... 
+Step 2: Under Settings/Device/Developer options/Turn on installing apps from unknown sources and ADB debugging.... 
+Step 3: Open Downloader. ... 
+Step 4: Enter the Github URL. ..https://github.com/Valerod2/FireTVStick/blob/master/README.md
+Step 5: Select the Kodi build. ... 
+Step 6: Get content on your Kodi build. http://thelittleguysco.net/kodi/SimpleMC.apk
+
+2.	STOPAD
+https://stopad.io/link/v1/redirect/7004aj6foa2o?tmp_download=true
+3.	BLOCK THIS!
+https://block-this.com/block-this-latest.apk
+4.	MOUSE TOGGLE
+https://tinyurl.com/yag9kkgc
+5.	OPERA FREE VPN
+https://dw.uptodown.com/dwn/rekLbg7xZ9nd5zuYuiERWjjo0Ln4N_fdAIsawiX1oPbTHpIV93trIC-fdxroa-AzRel24vMFfoWtnYFWfNU2LAtYf46LDSwL_BtVT18RT4f6HeIoSpor5UunwCZvNvVu/-yqVo3EGIC7g2lNs8c1OJUJKr-vbp4ohzru5eTXIu0ZEs-AnLxvLUaa9vcWG0dy6rVMzkbJ9wuMB45n8yYdBfD3wYr2JtI9bucWePasHC1WRkRAf8A32m6C-NpP8m3Pa/-gnY764z87tgy77Fl1AzCR6if_ynziIajEmsbVo76heOr6ti15XHXJ9TaninGpwVT0BtYox_NxaLdJz4yuUMBnNFpqlpcHVX_eAt3B5lNK1G1JaYNcDNA924wcMAUvgB/WLsITSO4638X_BDNsMgJ23Oe0HHIpzfAgAnNx5CMsXc=/
+6.	TEATV
+http://dl.dlandroid.com/apps/teatv-mod[dlandroid.com].apk
+7.	MOBDRO
+https://www.mobdro.to/mobdro.apk
+8.	APKTIME
+https://www.thestreammachine.net/uploads/8/0/4/5/8045572/apktime-v1.6-b.apk
+9.	TERRARIUM TV
+https://tinyurl.com/ybbrhj9p
+10.	ONEBOX
+https://tinyurl.com/yb39y546
+11.	 Kodi APK
+http://mirrors.kodi.tv/releases/android/arm/kodi-17.6-Krypton-armeabi-v7a.apk
+
+12.	UKTV NOW
+http://uktvnow.net/download/UKTVNowFirestick7.15.apk
+13.	REDBOX TV
+https://tinyurl.com/y8wmz7np
+
 
 https://troypoint.com/how-to-setup-firestick-or-fire-tv/
 
