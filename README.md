@@ -36,6 +36,9 @@ http://uktvnow.net/download/UKTVNowFirestick7.15.apk
 13.	REDBOX TV
 https://tinyurl.com/y8wmz7np
 
+15.	PANDORA
+https://drive.google.com/uc?export=download&id=0Bz61PneamORFN0xtWWVjNTM0RjA
+
 
 https://troypoint.com/how-to-setup-firestick-or-fire-tv/
 
