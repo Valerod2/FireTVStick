@@ -33,7 +33,7 @@ https://drive.google.com/uc?export=download&id=0Bz61PneamORFN0xtWWVjNTM0RjA
 12.	MX PLAYER PRO
 https://tinyurl.com/ycd6b3xa
 
-Exodus TV
+13. EXODUS TV
 http://www.kodiconfig.com/all-configurator-apps/
 After installation is complete FIRST open and configure STOPAD, BLOCK THIS, MOUSE TOGGLE AND OPERA VPN.  SET THEM UP TO AUTOMATICALLY RESTART AND TURN ON SETTINGS.  (read about how to use Mouse Toggle)  its helps to use it sometimes. 
 After this is done. You may open the rest.
