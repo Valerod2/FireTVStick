@@ -35,6 +35,9 @@ https://tinyurl.com/ycd6b3xa
 
 13. EXODUS TV
 http://www.kodiconfig.com/all-configurator-apps/
+
+https://www.dropbox.com/s/t0pms2e7fe8ap8u/Exodus2.0.apk?dl=1
+
 After installation is complete FIRST open and configure STOPAD, BLOCK THIS, MOUSE TOGGLE AND OPERA VPN.  SET THEM UP TO AUTOMATICALLY RESTART AND TURN ON SETTINGS.  (read about how to use Mouse Toggle)  its helps to use it sometimes. 
 After this is done. You may open the rest.
 
