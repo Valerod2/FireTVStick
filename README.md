@@ -53,6 +53,8 @@ http://www.streaming1tv.com/2017/08/how-to-install-opera-free-vpn-unlimited.html
 
 https://dimitrology.com/android-apk/
 
+https://dimitrology.com/getcode/
+
 Best Apps for Firestick can be found on APKTime:
 
 TerrariumTV
