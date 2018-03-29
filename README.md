@@ -55,6 +55,10 @@ https://dimitrology.com/android-apk/
 
 https://dimitrology.com/getcode/
 
+https://kporte.wixsite.com/files
+
+http://www.drxbld.com/wiz/
+
 Best Apps for Firestick can be found on APKTime:
 
 TerrariumTV
