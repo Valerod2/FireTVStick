@@ -12,6 +12,8 @@ Step 7: Install the following, but DO NOT open:
 
 2.	APKTIME (Contains most of the files you need below)
 https://www.thestreammachine.net/uploads/8/0/4/5/8045572/apktime-v1.6-b.apk
+https://tiny.cc/dlapktime
+
 3.	STOPAD
 https://stopad.io/link/v1/redirect/7004aj6foa2o?tmp_download=true
 4.	BLOCK THIS!
