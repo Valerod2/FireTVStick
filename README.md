@@ -20,6 +20,8 @@ https://block-this.com/block-this-latest.apk
 5.	MOUSE TOGGLE
 https://tinyurl.com/yag9kkgc
 6.	OPERA FREE VPN
+https://www.apkmonk.com/download-app/com.opera.vpn/5_com.opera.vpn_2018-01-10.apk/
+
 https://dw.uptodown.com/dwn/ly88jbiyMMEEh_WlOOio4VlADiBf8KulQ1BQ35vAug3-xLM2okF43TFH4PXlOHH3VNwyFFHb1XJyTLCRho0kMRl_xFqknny-1uAuojNmf4bSMDcXtRmNxVRB-4nZl4QE/x1FuKiKCgv2eeZJGf35UDDSlfQ-60lo8S9GMcJbAKSlbJKHBBD96a0kjNlWqesNlXGKObM8IJLWTw8K4iJ32y9anH_Oy3jFcK2I1KFc-X7gzBUIUYRo_fbCDGnktSNb-/1pQ0Q_DRtC21rLaJ6_0Tx9ZjLr4h2JLdTxhshPudi_EhIBsqn08GSAel6BORv5_X71Pq0QCx-rqqmXpRJY5DTXltLh4onAbS5q-Wj_VdYrEiBHr-fEolJkCCnpMy4v1X/YterIZ-km6eXNiEXHRvHUVDM_-qkAZepbKiHP1y0Vtc=/
 7.	TEATV
 http://dl.dlandroid.com/apps/teatv-mod[dlandroid.com].apk
