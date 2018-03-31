@@ -7,14 +7,12 @@ Step 2: Under Settings/Device/Developer options/Turn “ON” installing apps fr
 Step 3: Open Downloader. ... 
 Step 4: Enter the Github URL. ..https://github.com/Valerod2/ CLICK ON “README.md” Add to favorites.
 Step 5: Select/install the Kodi apk. ... http://mirrors.kodi.tv/releases/android/arm/kodi-17.6-Krypton-armeabi-v7a.apk
-Step 6: Get content on your Kodi go to/download http://thelittleguysco.net/kodi/SimpleMC.apk
+Step 6: Get content on your Kodi go to/download http://drxbld.com/wiz/plugin.program.drxwizard-6.0.zip
 Step 7: Install the following, but DO NOT open:
 
 2.	APKTIME (Contains most of the files you need below)
 https://www.thestreammachine.net/uploads/8/0/4/5/8045572/apktime-v1.6-b.apk
-
 https://tiny.cc/dlapktime
-
 3.	STOPAD
 https://stopad.io/link/v1/redirect/7004aj6foa2o?tmp_download=true
 4.	BLOCK THIS!
@@ -35,12 +33,10 @@ https://tinyurl.com/yb39y546
 https://drive.google.com/uc?export=download&id=0Bz61PneamORFN0xtWWVjNTM0RjA
 12.	MX PLAYER PRO
 https://tinyurl.com/ycd6b3xa
-
+13.         YES PLAYER
+https://tinyurl.com/y899af22
 13. EXODUS TV
-http://www.kodiconfig.com/all-configurator-apps/
-
 https://www.dropbox.com/s/t0pms2e7fe8ap8u/Exodus2.0.apk?dl=1
-
 After installation is complete FIRST open and configure STOPAD, BLOCK THIS, MOUSE TOGGLE AND OPERA VPN.  SET THEM UP TO AUTOMATICALLY RESTART AND TURN ON SETTINGS.  (read about how to use Mouse Toggle)  its helps to use it sometimes. 
 After this is done. You may open the rest.
 
@@ -101,5 +97,4 @@ Download via Amazon Store:
 	Downloader (good for downloading your APK's) 
 	VLC Player (optional)
 *When using Downloader, hit the QUIT/OK button 3 times to get to the menu. (Not necessary if you have an account).
-**if you do not have an Amazon account you will need to at least register without a credit card to have access to the firestick.  
-
+**if you do not have an Amazon account you will need to at least register without a credit card to have access to the firestick.
