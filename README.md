@@ -45,6 +45,7 @@ After this is done. You may open the rest.
 http://www.alphr.com/technology/1006525/install-google-play-amazon-fire-tv-stick
 
 ADDITIONAL INFO
+http://www.toptutorials.co.uk/android
 
 https://troypoint.com/how-to-setup-firestick-or-fire-tv/
 
